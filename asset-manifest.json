@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/Tambate/Django-and-React-Blog.git/static/js/main.626aec03.js",
-    "static/media/chef.jpg": "/Tambate/Django-and-React-Blog.git/static/media/chef.9cc822367a19f1c5d45d.jpg",
-    "static/media/dinner.jpg": "/Tambate/Django-and-React-Blog.git/static/media/dinner.9872d7a566f672a23fb7.jpg",
-    "static/media/burger1.jpg": "/Tambate/Django-and-React-Blog.git/static/media/burger1.b314fad18dceb1eab147.jpg",
-    "static/media/drinks.jpg": "/Tambate/Django-and-React-Blog.git/static/media/drinks.caa211c4f1b54a3b98d6.jpg",
-    "static/media/appetizer.jpg": "/Tambate/Django-and-React-Blog.git/static/media/appetizer.9f31df9611c633b7608b.jpg",
-    "static/media/meat.jpg": "/Tambate/Django-and-React-Blog.git/static/media/meat.19f9601af1bb1df38613.jpg",
-    "static/media/dessert.jpg": "/Tambate/Django-and-React-Blog.git/static/media/dessert.865b5179f966d4c198b5.jpg",
-    "static/media/salad.jpg": "/Tambate/Django-and-React-Blog.git/static/media/salad.abe2e5ae47198f48f291.jpg",
-    "static/media/burger.jpg": "/Tambate/Django-and-React-Blog.git/static/media/burger.3c8103793b8dd34385d3.jpg",
-    "static/media/breakfast2.jpg": "/Tambate/Django-and-React-Blog.git/static/media/breakfast2.e4ee38cc82e95ca2a999.jpg",
-    "index.html": "/Tambate/Django-and-React-Blog.git/index.html",
-    "main.626aec03.js.map": "/Tambate/Django-and-React-Blog.git/static/js/main.626aec03.js.map"
+    "main.js": "/Tambate/Django-and-React-Blog/static/js/main.fae0d2d9.js",
+    "static/media/chef.jpg": "/Tambate/Django-and-React-Blog/static/media/chef.9cc822367a19f1c5d45d.jpg",
+    "static/media/dinner.jpg": "/Tambate/Django-and-React-Blog/static/media/dinner.9872d7a566f672a23fb7.jpg",
+    "static/media/burger1.jpg": "/Tambate/Django-and-React-Blog/static/media/burger1.b314fad18dceb1eab147.jpg",
+    "static/media/drinks.jpg": "/Tambate/Django-and-React-Blog/static/media/drinks.caa211c4f1b54a3b98d6.jpg",
+    "static/media/appetizer.jpg": "/Tambate/Django-and-React-Blog/static/media/appetizer.9f31df9611c633b7608b.jpg",
+    "static/media/meat.jpg": "/Tambate/Django-and-React-Blog/static/media/meat.19f9601af1bb1df38613.jpg",
+    "static/media/dessert.jpg": "/Tambate/Django-and-React-Blog/static/media/dessert.865b5179f966d4c198b5.jpg",
+    "static/media/salad.jpg": "/Tambate/Django-and-React-Blog/static/media/salad.abe2e5ae47198f48f291.jpg",
+    "static/media/burger.jpg": "/Tambate/Django-and-React-Blog/static/media/burger.3c8103793b8dd34385d3.jpg",
+    "static/media/breakfast2.jpg": "/Tambate/Django-and-React-Blog/static/media/breakfast2.e4ee38cc82e95ca2a999.jpg",
+    "index.html": "/Tambate/Django-and-React-Blog/index.html",
+    "main.fae0d2d9.js.map": "/Tambate/Django-and-React-Blog/static/js/main.fae0d2d9.js.map"
   },
   "entrypoints": [
-    "static/js/main.626aec03.js"
+    "static/js/main.fae0d2d9.js"
   ]
 }
